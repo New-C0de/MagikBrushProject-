@@ -784,7 +784,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 4.0
+        "y": 3.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -908,7 +908,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 2.0
+        "y": 1.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -952,7 +952,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 8.0
+        "y": 5.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -1340,7 +1340,7 @@
     "m_ObjectId": "160c3c4726d74530b84bab65046e8f34",
     "m_Title": "Pulse",
     "m_Position": {
-        "x": -2345.0,
+        "x": -2345.000244140625,
         "y": 1035.0
     }
 }
@@ -1352,7 +1352,7 @@
     "m_Title": "Brightness",
     "m_Position": {
         "x": -284.0,
-        "y": 701.0
+        "y": 700.999755859375
     }
 }
 
@@ -1422,7 +1422,7 @@
     "m_ObjectId": "17e11f435a674eddb06a048053f20cbb",
     "m_Title": "Rim Glow",
     "m_Position": {
-        "x": -1289.0,
+        "x": -1289.00048828125,
         "y": 0.0
     }
 }
@@ -1602,7 +1602,7 @@
     "m_Title": "Final Alpha",
     "m_Position": {
         "x": -1512.0,
-        "y": -491.9999084472656
+        "y": -492.0
     }
 }
 
@@ -2162,7 +2162,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 2.0
+        "y": 1.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -3718,7 +3718,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 2.0
+        "y": 1.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
@@ -4109,8 +4109,8 @@
     "m_ObjectId": "9cbf131c1ba24dd6a863440a389c643c",
     "m_Title": "Noise Glow Factor",
     "m_Position": {
-        "x": -1349.0003662109375,
-        "y": 457.0000305175781
+        "x": -1349.00048828125,
+        "y": 457.0
     }
 }
 
@@ -4424,7 +4424,7 @@
     "m_Title": "Final Color",
     "m_Position": {
         "x": 131.0,
-        "y": 358.0
+        "y": 357.99993896484377
     }
 }
 
@@ -5211,7 +5211,7 @@
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
-    "m_Value": 2.0,
+    "m_Value": 1.0,
     "m_FloatType": 1,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
@@ -5840,7 +5840,7 @@
     "m_LiteralFloatMode": false,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 3.0
+        "y": 2.0
     },
     "m_SliderType": 0,
     "m_SliderPower": 3.0,
