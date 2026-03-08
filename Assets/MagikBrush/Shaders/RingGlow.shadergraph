@@ -1340,7 +1340,7 @@
     "m_ObjectId": "160c3c4726d74530b84bab65046e8f34",
     "m_Title": "Pulse",
     "m_Position": {
-        "x": -2345.000244140625,
+        "x": -2344.999755859375,
         "y": 1035.0
     }
 }
@@ -1351,8 +1351,8 @@
     "m_ObjectId": "165ce2ae9322402790de8bfcd7d0c548",
     "m_Title": "Brightness",
     "m_Position": {
-        "x": -284.0,
-        "y": 700.999755859375
+        "x": -283.9998779296875,
+        "y": 701.0
     }
 }
 
@@ -1422,8 +1422,8 @@
     "m_ObjectId": "17e11f435a674eddb06a048053f20cbb",
     "m_Title": "Rim Glow",
     "m_Position": {
-        "x": -1289.00048828125,
-        "y": 0.0
+        "x": -1288.999755859375,
+        "y": 0.00009918212890625
     }
 }
 
@@ -1601,7 +1601,7 @@
     "m_ObjectId": "21aaac14e881471a8efa874f19da0719",
     "m_Title": "Final Alpha",
     "m_Position": {
-        "x": -1512.0,
+        "x": -1511.9998779296875,
         "y": -492.0
     }
 }
@@ -1889,7 +1889,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "e00": 0.30000001192092898,
+        "e00": 1.0,
         "e01": 2.0,
         "e02": 2.0,
         "e03": 2.0,
@@ -3326,10 +3326,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -442.9997863769531,
-            "y": 210.0000457763672,
-            "width": 128.99996948242188,
-            "height": 33.99995422363281
+            "x": -439.99981689453127,
+            "y": 145.99993896484376,
+            "width": 128.99993896484376,
+            "height": 33.99998474121094
         }
     },
     "m_Slots": [
@@ -3984,8 +3984,8 @@
     "m_ObjectId": "98d08b32c598400b9419037ae1903beb",
     "m_Title": "Noise 1",
     "m_Position": {
-        "x": -3239.0,
-        "y": -124.0
+        "x": -3238.999755859375,
+        "y": -123.99996948242188
     }
 }
 
@@ -4109,8 +4109,8 @@
     "m_ObjectId": "9cbf131c1ba24dd6a863440a389c643c",
     "m_Title": "Noise Glow Factor",
     "m_Position": {
-        "x": -1349.00048828125,
-        "y": 457.0
+        "x": -1348.9998779296875,
+        "y": 456.9999694824219
     }
 }
 
@@ -4424,7 +4424,7 @@
     "m_Title": "Final Color",
     "m_Position": {
         "x": 131.0,
-        "y": 357.99993896484377
+        "y": 358.0
     }
 }
 
@@ -5283,7 +5283,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Scale",
     "m_StageCapability": 3,
-    "m_Value": 6.0,
+    "m_Value": 20.0,
     "m_DefaultValue": 500.0,
     "m_Labels": [],
     "m_LiteralMode": false
