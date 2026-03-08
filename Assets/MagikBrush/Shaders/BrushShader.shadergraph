@@ -288,20 +288,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "0ca7219a482e41729dd50b35ca78b9de"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "dc8e35714dfd44bbafb73c540c287a27"
-                },
-                "m_SlotId": 1
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "124aef5d61bb4cd6805a07d4303d7c4d"
                 },
                 "m_SlotId": 2
@@ -928,6 +914,20 @@
                 },
                 "m_SlotId": 0
             }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "ee2370080a884bf0b03889fecb5bc41c"
+                },
+                "m_SlotId": 3
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "dc8e35714dfd44bbafb73c540c287a27"
+                },
+                "m_SlotId": 1
+            }
         }
     ],
     "m_VertexContext": {
@@ -989,7 +989,7 @@
     "m_Title": "Flame Mask",
     "m_Position": {
         "x": -819.0,
-        "y": -982.0000610351563
+        "y": -982.0001220703125
     }
 }
 
@@ -1109,8 +1109,8 @@
     "m_ObjectId": "06cdd2ab7088456bae28d410b1976067",
     "m_Title": "Final Alpha",
     "m_Position": {
-        "x": 1344.9998779296875,
-        "y": -1239.0
+        "x": 1345.000244140625,
+        "y": -1239.0001220703125
     }
 }
 
@@ -1585,8 +1585,8 @@
     "m_ObjectId": "1d60dff777fa4523a90d69d88f9c64ef",
     "m_Title": "Inner Mask",
     "m_Position": {
-        "x": -445.9999084472656,
-        "y": -982.0
+        "x": -446.0,
+        "y": -982.0001220703125
     }
 }
 
@@ -2237,8 +2237,8 @@
     "m_ObjectId": "37e23ac6661a44b5ba138d12d63b8c53",
     "m_Title": "Noise Pattern",
     "m_Position": {
-        "x": -1534.0,
-        "y": -489.0
+        "x": -1534.0001220703125,
+        "y": -488.99993896484377
     }
 }
 
@@ -3285,8 +3285,8 @@
     "m_ObjectId": "5f3399bb8c02453582f51817dc5c6810",
     "m_Title": "FinalColor",
     "m_Position": {
-        "x": 1174.0001220703125,
-        "y": -468.00006103515627
+        "x": 1174.000244140625,
+        "y": -468.0
     }
 }
 
@@ -4240,8 +4240,8 @@
     "m_ObjectId": "8b5d3229ca1a4e4bb613731e42d61d47",
     "m_Title": "Animated Flame UV",
     "m_Position": {
-        "x": -2228.0,
-        "y": -488.0
+        "x": -2227.999755859375,
+        "y": -488.0001220703125
     }
 }
 
@@ -4564,8 +4564,8 @@
     "m_ObjectId": "95e64fee26194906a339afa1c958793c",
     "m_Title": "Height Mask",
     "m_Position": {
-        "x": -2244.0,
-        "y": -934.0
+        "x": -2243.999755859375,
+        "y": -934.0001220703125
     }
 }
 
@@ -4607,7 +4607,7 @@
     "m_ObjectId": "98846ec8a5754c239628e749ef3fa406",
     "m_Title": "Pulse",
     "m_Position": {
-        "x": -1155.0001220703125,
+        "x": -1155.0,
         "y": -57.0
     }
 }
@@ -6110,8 +6110,8 @@
     "m_ObjectId": "ca5eb115c1a6476682b5276d103b60c3",
     "m_Title": "Fire Color",
     "m_Position": {
-        "x": -159.99984741210938,
-        "y": -1446.0
+        "x": -160.0,
+        "y": -1446.0001220703125
     }
 }
 
@@ -6599,7 +6599,7 @@
     "m_Title": "Stretch Y",
     "m_Position": {
         "x": -2496.0,
-        "y": 73.0
+        "y": 72.99992370605469
     }
 }
 
@@ -7237,8 +7237,8 @@
     "m_ObjectId": "ee352719952a49ed99db206b503bb16e",
     "m_Title": "Upward scrolling motion",
     "m_Position": {
-        "x": -3045.0,
-        "y": 225.0
+        "x": -3044.999755859375,
+        "y": 225.00001525878907
     }
 }
 
@@ -7472,7 +7472,7 @@
     "m_ObjectId": "f6dc64f34abb480d966f936c50bc969b",
     "m_Title": "RimGlow",
     "m_Position": {
-        "x": -591.0000610351563,
+        "x": -591.0,
         "y": -537.0000610351563
     }
 }
